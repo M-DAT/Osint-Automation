@@ -1,0 +1,32 @@
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.prefix, expected /home/mdat/vt_hash_scanner/.venv, got /home/mdat/vt_hash_scanner/backend/../.venv
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.exec_prefix, expected /home/mdat/vt_hash_scanner/.venv, got /home/mdat/vt_hash_scanner/backend/../.venv
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 334-965-281
+127.0.0.1 - - [04/May/2026 17:31:55] "GET /osint/api_keys HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:32:53] "GET /osint/api_keys HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:32:53] "GET /osint/api_keys HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:33:14] "POST /osint/scan HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:34:50] "POST /osint/scan HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:35:07] "POST /osint/scan HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:36:35] "POST /osint/scan HTTP/1.1" 200 -
+ * Detected change in '/home/mdat/vt_hash_scanner/backend/services/osint_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 334-965-281
+ * Detected change in '/home/mdat/vt_hash_scanner/backend/services/osint_service.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 334-965-281
+127.0.0.1 - - [04/May/2026 17:53:03] "POST /osint/api_keys HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:53:03] "GET /osint/api_keys HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:53:25] "POST /osint/scan HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:53:40] "POST /osint/scan HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 17:59:04] "POST /osint/scan HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 18:05:00] "GET /osint/api_keys HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 18:05:00] "GET /osint/api_keys HTTP/1.1" 200 -
