@@ -1,4 +1,4 @@
-# 🛡️ VT Hash Scanner & Advanced OSINT Platform
+# 🛡️ MDAT Osint Automation
 
 An advanced cybersecurity platform that combines bulk file/URL scanning via VirusTotal with an automated Open Source Intelligence (OSINT) engine for deep threat analysis. Designed with a modern, premium UI to support security analysts in evaluating risks quickly and accurately.
 

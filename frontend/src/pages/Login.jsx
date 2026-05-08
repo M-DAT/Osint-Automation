@@ -37,7 +37,7 @@ export default function Login({ onLoginSuccess }) {
           <div className="logo-box">
             <ShieldCheck size={48} color="var(--primary)" />
           </div>
-          <h1>VT Hash Scanner</h1>
+          <h1>MDAT Osint Automation</h1>
           <p>Advanced Threat Intelligence & Cybersecurity Platform</p>
         </div>
 

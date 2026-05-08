@@ -59,7 +59,7 @@ export default function DashboardLayout({ children, user, onLogout }) {
       <aside className="sidebar">
         <div className="sidebar-logo">
           <ShieldCheck size={32} color="var(--primary)" />
-          <span>VT SCANNER</span>
+          <span>MDAT OSINT</span>
         </div>
 
         <nav className="sidebar-nav">
@@ -109,7 +109,7 @@ export default function DashboardLayout({ children, user, onLogout }) {
         </main>
 
         <footer className="main-footer">
-          <p>© 2026 VT Hash Scanner - Advanced Threat Intelligence</p>
+          <p>© 2026 MDAT Osint Automation - Advanced Threat Intelligence</p>
           <div className="footer-links">
             <span>Version 2.0.0</span>
           </div>
